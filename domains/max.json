@@ -1,0 +1,12 @@
+{
+  "description": "Documentation website for is-a.dev",
+  "repo": "https://github.com/codetoucher/porto",
+  "owner": {
+    "username": "to8go",
+    "email": "t8china@aliyun.com"
+  },
+  "record": {
+    "CNAME": "port.b7p.eu"
+  },
+  "proxied": true
+}
